@@ -1,0 +1,17 @@
+.headlineone {
+    font-family:cursive;
+    font-size:10px;
+    text-align:center;
+}
+body {
+    font-family:cursive;
+    background-color:grey;
+}
+.paragraphone {
+    text-align:center;
+}
+.credits {
+    font-family: cursive;
+    font-size: 64;
+}
+/*I had to put an SM64 refrence..*/
